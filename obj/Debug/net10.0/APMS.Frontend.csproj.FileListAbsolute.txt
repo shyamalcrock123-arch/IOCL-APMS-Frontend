@@ -97,3 +97,4 @@ C:\Users\Shreya Bhattacharjee\IOCL-APMS-Frontend\APMS.Frontend\obj\Debug\net10.0
 C:\Users\Shreya Bhattacharjee\IOCL-APMS-Frontend\APMS.Frontend\obj\Debug\net10.0\APMS.Frontend.pdb
 C:\Users\Shreya Bhattacharjee\IOCL-APMS-Frontend\APMS.Frontend\obj\Debug\net10.0\APMS.Frontend.genruntimeconfig.cache
 C:\Users\Shreya Bhattacharjee\IOCL-APMS-Frontend\APMS.Frontend\obj\Debug\net10.0\ref\APMS.Frontend.dll
+C:\Users\Shreya Bhattacharjee\IOCL-APMS-Frontend\APMS.Frontend\obj\Debug\net10.0\APMS.Frontend.sourcelink.json
